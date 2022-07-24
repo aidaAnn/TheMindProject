@@ -194,7 +194,7 @@
           }
         else if((correct >= 10) && (correct <= 14))
           {
-            score.append('\t <h2>Find more time for your Hapiness</h2></br><h3>You might feel washed out from work.</br>But remember to go easy on yourself. Whatever you do today, let it be enough. Take breaks and do the things that you love. Occasionaly, talk to someone about your work life and feelings.</h3>');
+            score.append('\t <h2>Find more time for your Happiness</h2></br><h3>You might feel washed out from work.</br>But remember to go easy on yourself. Whatever you do today, let it be enough. Take breaks and do the things that you love. Occasionaly, talk to someone about your work life and feelings.</h3>');
           }
         else if((correct >= 15) && (correct <= 19))
           {
