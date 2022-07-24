@@ -5,11 +5,11 @@ body
     background-size: cover;
    
 }
-@media screen and (min-width: 480px) {
-    body {
-        background: white url("img/Calming-Triggered-Emotions-Saunders_1920x1080.webp") no-repeat 50% 50%;
-    }
-}
+//@media screen and (min-width: 480px) {
+    //body {
+        //background: white url("img/Calming-Triggered-Emotions-Saunders_1920x1080.webp") no-repeat 50% 50%;
+    //}
+//}
 h1 {
     text-align: center;
 }
