@@ -10,13 +10,6 @@ body
         background: white url("img/Calming-Triggered-Emotions-Saunders_1920x1080.webp") no-repeat 50% 50%;
     }
 }
-@media (max-width: 480px) {
-    body {
-      background-image: url("img/Calming-Triggered-Emotions-Saunders_1920x1080.webp");
-      background-repeat: no-repeat;
-      background-size: cover ;
-    }
-  }
 h1 {
     text-align: center;
 }
