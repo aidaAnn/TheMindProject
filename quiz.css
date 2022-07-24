@@ -5,6 +5,11 @@ body
     background-size: cover;
    
 }
+@media screen and (min-width: 400px) {
+    body {
+        background: black url('test.jpg') no-repeat 50% 50%;
+    }
+}
 @media screen and (max-width:767px) {
     [data-section-id="628d0a2769228175152ecb9b"] .section-background img {
         object-fit: contain !important;
