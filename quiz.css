@@ -5,18 +5,18 @@ body
     background-size: cover;
    
 }
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 480px) {
     body {
         background: white url("img/Calming-Triggered-Emotions-Saunders_1920x1080.webp") no-repeat 50% 50%;
     }
 }
-@media screen and (max-width:767px) {
-    [data-section-id="628d0a2769228175152ecb9b"] .section-background img {
-        object-fit: contain !important;
+@media (max-width: 480px) {
+    body {
+      background-image: url("img/Calming-Triggered-Emotions-Saunders_1920x1080.webp");
+      background-repeat: no-repeat;
+      background-size: cover ;
     }
-    [data-section-id="628d0a2769228175152ecb9b"] .section-background {
-        background-color: white;
-    }}
+  }
 h1 {
     text-align: center;
 }
